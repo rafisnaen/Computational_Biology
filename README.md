@@ -5,6 +5,7 @@ Summary :
 - Working with biological files
    - fasta & genbank
    - PDB & MMCIF
+- Sequence Manipulation
 - Sequence Analysis
    - Melting Temperature
    - GC / AT Content
