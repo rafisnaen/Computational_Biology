@@ -3,6 +3,8 @@
 <br/>
 Summary :
 - Working with biological files
+   - fasta & genbank
+   - PDB & MMCIF
 - Sequence Analysis
    - Melting Temperature
    - GC / AT Content
